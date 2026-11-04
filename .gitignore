@@ -1,0 +1,8 @@
+# Solo se publican los archivos del programa y su documentación de uso.
+*
+!.gitignore
+!README.md
+!manual.md
+!requirements.txt
+!simulacion.py
+!test_simulacion.py
