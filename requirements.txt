@@ -1,0 +1,2 @@
+# Sin dependencias externas.
+# El simulador y las pruebas utilizan la biblioteca estándar de Python 3.10 o posterior.
